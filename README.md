@@ -552,18 +552,16 @@ If the workbook contains sensitive or restricted information, do not publish the
 
 ## 👩‍💻 Author
 
-**Ramya.M
+Ramya.M
 
-Aspiring Data Analyst | Excel | Power BI | SQL | Python
+ Data Analyst |  Power BI Dashboard
 
 Interested in transforming raw data into meaningful business insights through data cleaning, analytical modeling, and interactive reporting.
 
 ---
+Linkedin:
+Github :
 
-<div align="center">
 
-### ⭐ If you find this project useful, consider starring the repository!
 
-*Turning Data into Insights, One Dashboard at a Time.*
 
-</div>
