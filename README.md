@@ -559,8 +559,7 @@ Ramya.M
 Interested in transforming raw data into meaningful business insights through data cleaning, analytical modeling, and interactive reporting.
 
 ---
-Linkedin:
-Github :
+
 
 
 
